@@ -54,6 +54,7 @@
     auth.dependency 'Kingfisher'
     auth.dependency 'LineSDKSwift', '~> 5.0'
     auth.dependency 'YYText-swift'
+    auth.dependency 'NidThirdPartyLogin'
   end
   
   # CJService 子库
